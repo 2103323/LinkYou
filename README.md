@@ -13,8 +13,7 @@ Linkyou is a Web Hiring Platform Application
 ## Features
 
 - **User Authentication**: Secure sign-up and login with options for social media authentication.
-- **Link Management**: Easily add, edit, and delete links.
-- **Categories**: Organize links into customizable categories.
+- **Job Management**: Easily add, edit, and delete jobs for admin.
 - **User Profiles**: Each user has a personalized profile with their jobs.
 - **Responsive Design**: Works seamlessly on desktops and mobile devices.
 
@@ -94,14 +93,13 @@ Once the application is running, you can:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+![image](https://github.com/user-attachments/assets/367c906d-8b8d-41e4-9bde-0239b58a0e19)
 
-Feel free to customize this README to fit your project's specific requirements, such as changing the project name, adding more details about the API, or providing examples of how to use certain features. Having a well-structured README will help users and developers understand and contribute to your project more effectively.
-```
+![image](https://github.com/user-attachments/assets/388cb543-3c07-45cc-8671-e53c846f0515)
 
-### Notes:
+![image](https://github.com/user-attachments/assets/bdbd3c96-b776-4362-8501-769ae3432287)
 
-- Replace placeholders like `yourusername` and `<your-clerk-frontend-api>` with the actual values relevant to your project.
-- Add more details under each section if needed, especially for features and usage, based on what your application offers.
-- Consider adding a **Screenshots** section to showcase the UI of the application visually.
-- Make sure to include any other relevant sections based on your project’s complexity and requirements.
+![image](https://github.com/user-attachments/assets/0b953556-caed-405b-b27e-a758f488aab6)
+
+
+
