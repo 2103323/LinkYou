@@ -13,6 +13,7 @@ import SavedJobs from "./pages/saved-jobs";
 import JobPage from "./pages/job";
 
 import "./App.css";
+import PostAssessment from "./components/post-assessment";
 
 const router = createBrowserRouter([
   {
@@ -67,6 +68,14 @@ const router = createBrowserRouter([
         element: (
           <ProtectedRoute>
             <JobPage />
+          </ProtectedRoute>
+        ),
+      },
+      {
+        path: "/jobs/:jobId/assessment",
+        element: (
+          <ProtectedRoute>
+            <PostAssessment />
           </ProtectedRoute>
         ),
       },
