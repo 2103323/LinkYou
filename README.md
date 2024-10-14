@@ -8,7 +8,6 @@ Linkyou is a Web Hiring Platform Application
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
